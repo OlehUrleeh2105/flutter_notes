@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "136185979887",
+    "project_id": "mynotes-7e9e4",
+    "storage_bucket": "mynotes-7e9e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136185979887:android:f99734d0c4298053870c1a",
+        "android_client_info": {
+          "package_name": "dream.proj.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRoFFS6zXE59PP03miJTtQIxYSBOpTdIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
